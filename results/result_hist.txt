@@ -1,0 +1,1433 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 16, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 192 K-images (3 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0001.png: Predicted in 17.180000 milli-seconds.
+Ear: 61%	(left_x:  368   top_y:   88   width:   26   height:   69)
+Ear: 91%	(left_x:  372   top_y:  102   width:   22   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0002.png: Predicted in 13.994000 milli-seconds.
+Ear: 93%	(left_x:  317   top_y:   92   width:   19   height:   38)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0003.png: Predicted in 13.946000 milli-seconds.
+Ear: 89%	(left_x: -1256378335232   top_y: -1246404804608   width: 2512756670464   height: 2492809609216)
+Ear: 97%	(left_x:   76   top_y:  135   width:   67   height:   64)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0004.png: Predicted in 13.808000 milli-seconds.
+Ear: 95%	(left_x: -1232042590208   top_y: -1210425802752   width: 2464085180416   height: 2420851605504)
+Ear: 95%	(left_x:  315   top_y:  100   width:   59   height:   80)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0005.png: Predicted in 13.819000 milli-seconds.
+Ear: 96%	(left_x: -56173260800   top_y: -139809144832   width: 112346521600   height: 279618289664)
+Ear: 94%	(left_x:  331   top_y:  103   width:   28   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0006.png: Predicted in 13.680000 milli-seconds.
+Ear: 85%	(left_x: -5034797568   top_y: -12541874176   width: 10069595136   height: 25083748352)
+Ear: 97%	(left_x:  190   top_y:   50   width:   26   height:   70)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0007.png: Predicted in 13.879000 milli-seconds.
+Ear: 90%	(left_x: -139084267520   top_y: -169673506816   width: 278168535040   height: 339347013632)
+Ear: 99%	(left_x:   88   top_y:  108   width:   42   height:   55)
+Ear: 77%	(left_x:  336   top_y:   90   width:   19   height:   53)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0008.png: Predicted in 13.786000 milli-seconds.
+Ear: 98%	(left_x: -5489802346496   top_y: -14680643862528   width: 10979604692992   height: 29361287725056)
+Ear: 98%	(left_x:  258   top_y:   67   width:   47   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0009.png: Predicted in 14.374000 milli-seconds.
+Ear: 88%	(left_x:  343   top_y:   87   width:   21   height:   50)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0010.png: Predicted in 13.909000 milli-seconds.
+Ear: 86%	(left_x: -651281104896   top_y: -1741055983616   width: 1302562209792   height: 3482111967232)
+Ear: 93%	(left_x:  314   top_y:  177   width:   40   height:   94)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0011.png: Predicted in 13.896000 milli-seconds.
+Ear: 97%	(left_x: -1813572616192   top_y: -4231276527616   width: 3627145232384   height: 8462553055232)
+Ear: 97%	(left_x:   40   top_y:  100   width:   37   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0012.png: Predicted in 13.969000 milli-seconds.
+Ear: 90%	(left_x: -118120579072   top_y: -296847179776   width: 236241158144   height: 593694359552)
+Ear: 66%	(left_x: -1179131008   top_y: -4461752832   width: 2358262784   height: 8923506688)
+Ear: 93%	(left_x:  136   top_y:  135   width:   36   height:   74)
+Ear: 80%	(left_x:  355   top_y:  156   width:   17   height:   64)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0013.png: Predicted in 13.945000 milli-seconds.
+Ear: 83%	(left_x:  116   top_y:  103   width:   30   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0014.png: Predicted in 13.816000 milli-seconds.
+Ear: 63%	(left_x:  118   top_y:   54   width:   26   height:   31)
+Ear: 67%	(left_x:  347   top_y:  102   width:   61   height:  115)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0015.png: Predicted in 13.488000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0016.png: Predicted in 13.730000 milli-seconds.
+Ear: 97%	(left_x: -152839258112   top_y: -236636045312   width: 305678516224   height: 473272090624)
+Ear: 97%	(left_x:  224   top_y:   93   width:   40   height:   65)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0017.png: Predicted in 13.891000 milli-seconds.
+Ear: 98%	(left_x: -1139472596992   top_y: -1443672489984   width: 2278945193984   height: 2887344979968)
+Ear: 95%	(left_x: -209854595072   top_y: -307267141632   width: 419709190144   height: 614534283264)
+Ear: 97%	(left_x:   79   top_y:  101   width:   46   height:   76)
+Ear: 92%	(left_x:  356   top_y:  100   width:   43   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0018.png: Predicted in 13.955000 milli-seconds.
+Ear: 95%	(left_x: -1071591718912   top_y: -2996146536448   width: 2143183437824   height: 5992293072896)
+Ear: 96%	(left_x:  344   top_y:  133   width:   39   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0019.png: Predicted in 13.855000 milli-seconds.
+Ear: 70%	(left_x: -98986024960   top_y: -121999769600   width: 197972049920   height: 243999539200)
+Ear: 91%	(left_x:   54   top_y:  132   width:   55   height:   59)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0020.png: Predicted in 14.031000 milli-seconds.
+Ear: 65%	(left_x: -1513881472   top_y: -2084125440   width: 3027763456   height: 4168251392)
+Ear: 98%	(left_x:  184   top_y:  158   width:   44   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0021.png: Predicted in 13.888000 milli-seconds.
+Ear: 84%	(left_x: -9391648768   top_y: -23380412416   width: 18783297536   height: 46760824832)
+Ear: 86%	(left_x:  170   top_y:  153   width:   30   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0022.png: Predicted in 13.977000 milli-seconds.
+Ear: 74%	(left_x:  162   top_y:   47   width:   24   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0023.png: Predicted in 13.836000 milli-seconds.
+Ear: 94%	(left_x:  403   top_y:  121   width:   34   height:   49)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0024.png: Predicted in 13.870000 milli-seconds.
+Ear: 91%	(left_x: -12990630912   top_y: -29684418560   width: 25981261824   height: 59368837120)
+Ear: 92%	(left_x:   99   top_y:  139   width:   33   height:   64)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0025.png: Predicted in 14.103000 milli-seconds.
+Ear: 92%	(left_x: -7430142464   top_y: -16849435648   width: 14860284928   height: 33698871296)
+Ear: 98%	(left_x:  147   top_y:   97   width:   31   height:   62)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0026.png: Predicted in 13.822000 milli-seconds.
+Ear: 98%	(left_x: -1763806674944   top_y: -2888574697472   width: 3527613349888   height: 5777149394944)
+Ear: 97%	(left_x:  103   top_y:  148   width:   40   height:   81)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0027.png: Predicted in 13.590000 milli-seconds.
+Ear: 97%	(left_x: -100761763840   top_y: -165979979776   width: 201523527680   height: 331959959552)
+Ear: 99%	(left_x:  258   top_y:  112   width:   39   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0028.png: Predicted in 13.778000 milli-seconds.
+Ear: 75%	(left_x: -52641415168   top_y: -74477600768   width: 105282830336   height: 148955201536)
+Ear: 86%	(left_x:   67   top_y:  120   width:   68   height:   71)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0029.png: Predicted in 14.048000 milli-seconds.
+Ear: 63%	(left_x: -3367770112   top_y: -2328356096   width: 6735540224   height: 4656712704)
+Ear: 67%	(left_x:   90   top_y:  138   width:   55   height:   68)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0030.png: Predicted in 14.059000 milli-seconds.
+Ear: 92%	(left_x: -27241594880   top_y: -45709619200   width: 54483189760   height: 91419238400)
+Ear: 91%	(left_x:  177   top_y:  144   width:   38   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0031.png: Predicted in 13.919000 milli-seconds.
+Ear: 71%	(left_x: -1294910976   top_y: -2419990016   width: 2589822720   height: 4839980544)
+Ear: 93%	(left_x:  382   top_y:  107   width:   38   height:   87)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0032.png: Predicted in 13.997000 milli-seconds.
+Ear: 82%	(left_x: -349723776   top_y: -648228096   width: 699447872   height: 1296456448)
+Ear: 96%	(left_x:  186   top_y:   69   width:   26   height:   49)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0033.png: Predicted in 13.823000 milli-seconds.
+Ear: 78%	(left_x: -993240512   top_y: -2297335808   width: 1986481408   height: 4594671616)
+Ear: 97%	(left_x:  148   top_y:  132   width:   29   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0034.png: Predicted in 13.885000 milli-seconds.
+Ear: 91%	(left_x: -7787954176   top_y: -5855620096   width: 15575909376   height: 11711240192)
+Ear: 74%	(left_x:  325   top_y:   87   width:   40   height:   33)
+Ear: 78%	(left_x:  325   top_y:   70   width:   37   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0035.png: Predicted in 13.801000 milli-seconds.
+Ear: 90%	(left_x: -163282567168   top_y: -263815462912   width: 326565134336   height: 527630925824)
+Ear: 92%	(left_x:   83   top_y:  168   width:   44   height:   74)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0036.png: Predicted in 14.002000 milli-seconds.
+Ear: 97%	(left_x: -109760602112   top_y: -208932175872   width: 219521204224   height: 417864351744)
+Ear: 95%	(left_x:  118   top_y:  201   width:   34   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0037.png: Predicted in 13.706000 milli-seconds.
+Ear: 89%	(left_x:  343   top_y:   98   width:   51   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0038.png: Predicted in 13.727000 milli-seconds.
+Ear: 96%	(left_x: -44422553600   top_y: -55860785152   width: 88845107200   height: 111721570304)
+Ear: 99%	(left_x:  323   top_y:  126   width:   38   height:   50)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0039.png: Predicted in 14.007000 milli-seconds.
+Ear: 66%	(left_x: -16541813760   top_y: -32582375424   width: 33083627520   height: 65164750848)
+Ear: 98%	(left_x:  300   top_y:  156   width:   35   height:   46)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0040.png: Predicted in 13.888000 milli-seconds.
+Ear: 89%	(left_x: -3261242112   top_y: -7041958400   width: 6522484736   height: 14083916800)
+Ear: 95%	(left_x:  156   top_y:  110   width:   26   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0041.png: Predicted in 13.909000 milli-seconds.
+Ear: 99%	(left_x:  416   top_y:  129   width:   30   height:   59)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0042.png: Predicted in 14.386000 milli-seconds.
+Ear: 71%	(left_x: -283976288   top_y: -504883808   width: 567952832   height: 1009767872)
+Ear: 98%	(left_x:  131   top_y:  102   width:   30   height:   48)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0043.png: Predicted in 13.955000 milli-seconds.
+Ear: 79%	(left_x: -4085937152   top_y: -7347142656   width: 8171874304   height: 14694285312)
+Ear: 87%	(left_x:   92   top_y:  100   width:   43   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0044.png: Predicted in 13.835000 milli-seconds.
+Ear: 98%	(left_x: -217329532928   top_y: -540831186944   width: 434659065856   height: 1081662373888)
+Ear: 97%	(left_x:  244   top_y:  185   width:   35   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0045.png: Predicted in 13.745000 milli-seconds.
+Ear: 64%	(left_x:  280   top_y:  141   width:   21   height:   85)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0046.png: Predicted in 13.902000 milli-seconds.
+Ear: 74%	(left_x:  287   top_y:  100   width:   16   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0047.png: Predicted in 13.787000 milli-seconds.
+Ear: 93%	(left_x: -294589693952   top_y: -872415887360   width: 589179387904   height: 1744831774720)
+Ear: 95%	(left_x:  281   top_y:  118   width:   36   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0048.png: Predicted in 13.625000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0049.png: Predicted in 13.753000 milli-seconds.
+Ear: 88%	(left_x:  274   top_y:  118   width:   30   height:   51)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0050.png: Predicted in 13.992000 milli-seconds.
+Ear: 72%	(left_x:  330   top_y:   73   width:   18   height:   23)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0051.png: Predicted in 13.838000 milli-seconds.
+Ear: 97%	(left_x: -1472235044864   top_y: -2009914671104   width: 2944470089728   height: 4019829342208)
+Ear: 96%	(left_x:  127   top_y:  165   width:   51   height:   81)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0052.png: Predicted in 13.951000 milli-seconds.
+Ear: 79%	(left_x: -8991775744   top_y: -9695251456   width: 17983551488   height: 19390502912)
+Ear: 65%	(left_x: -1983680640   top_y: -1243693312   width: 3967361280   height: 2487386624)
+Ear: 64%	(left_x:    8   top_y:   93   width:   56   height:   36)
+Ear: 87%	(left_x:  296   top_y:   58   width:   41   height:   35)
+Ear: 72%	(left_x:  297   top_y:   36   width:   36   height:   75)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0053.png: Predicted in 13.843000 milli-seconds.
+Ear: 87%	(left_x:  310   top_y:  105   width:   15   height:   39)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0054.png: Predicted in 13.905000 milli-seconds.
+Ear: 64%	(left_x:  138   top_y:   58   width:   15   height:   54)
+Ear: 84%	(left_x:  249   top_y:   45   width:   18   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0055.png: Predicted in 13.900000 milli-seconds.
+Ear: 88%	(left_x: -6171469312   top_y: -19701917696   width: 12342939648   height: 39403835392)
+Ear: 91%	(left_x:  349   top_y:  117   width:   26   height:   84)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0056.png: Predicted in 13.899000 milli-seconds.
+Ear: 71%	(left_x: -936827712   top_y: -3375766784   width: 1873655680   height: 6751533568)
+Ear: 86%	(left_x:   82   top_y:  142   width:   32   height:   57)
+Ear: 74%	(left_x:  363   top_y:  158   width:   45   height:   85)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0057.png: Predicted in 13.811000 milli-seconds.
+Ear: 70%	(left_x:  125   top_y:  121   width:   33   height:   34)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0058.png: Predicted in 13.716000 milli-seconds.
+Ear: 61%	(left_x:  350   top_y:   89   width:   48   height:   66)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0059.png: Predicted in 13.844000 milli-seconds.
+Ear: 69%	(left_x: -408241248   top_y: -868643520   width: 816482816   height: 1737287424)
+Ear: 92%	(left_x:  140   top_y:  117   width:   27   height:   59)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0060.png: Predicted in 13.862000 milli-seconds.
+Ear: 83%	(left_x:  142   top_y:  111   width:   39   height:   92)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0061.png: Predicted in 13.783000 milli-seconds.
+Ear: 79%	(left_x: -40264847360   top_y: -32905322496   width: 80529694720   height: 65810644992)
+Ear: 98%	(left_x:   83   top_y:  184   width:   62   height:   65)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0062.png: Predicted in 13.893000 milli-seconds.
+Ear: 66%	(left_x: -4186431744   top_y: -2722560256   width: 8372864512   height: 5445121024)
+Ear: 86%	(left_x:  275   top_y:   88   width:   51   height:   28)
+Ear: 60%	(left_x:  278   top_y:   70   width:   42   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0063.png: Predicted in 13.875000 milli-seconds.
+Ear: 61%	(left_x: -1137631232   top_y: -1122051840   width: 2275263232   height: 2244104192)
+Ear: 76%	(left_x:  344   top_y:  109   width:   55   height:   51)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0064.png: Predicted in 13.650000 milli-seconds.
+Ear: 76%	(left_x: -396148416   top_y: -762230400   width: 792297152   height: 1524461184)
+Ear: 91%	(left_x:  169   top_y:  141   width:   26   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0065.png: Predicted in 13.994000 milli-seconds.
+Ear: 86%	(left_x: -6509090304   top_y: -8379265536   width: 13018181632   height: 16758531072)
+Ear: 97%	(left_x:  315   top_y:  129   width:   29   height:   43)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0066.png: Predicted in 13.605000 milli-seconds.
+Ear: 88%	(left_x: -301058424832   top_y: -1043300941824   width: 602116849664   height: 2086601883648)
+Ear: 93%	(left_x:  301   top_y:   85   width:   33   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0067.png: Predicted in 13.834000 milli-seconds.
+Ear: 72%	(left_x: -2461404928   top_y: -4582298624   width: 4922810368   height: 9164597248)
+Ear: 95%	(left_x:  192   top_y:  167   width:   25   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0068.png: Predicted in 13.773000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0069.png: Predicted in 13.847000 milli-seconds.
+Ear: 95%	(left_x: -33076074496   top_y: -63164567552   width: 66152148992   height: 126329135104)
+Ear: 96%	(left_x:  121   top_y:  126   width:   31   height:   66)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0070.png: Predicted in 13.994000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0071.png: Predicted in 13.889000 milli-seconds.
+Ear: 85%	(left_x: -2791776452608   top_y: -5223773372416   width: 5583552905216   height: 10447546744832)
+Ear: 94%	(left_x:   61   top_y:  164   width:   62   height:   84)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0072.png: Predicted in 13.998000 milli-seconds.
+Ear: 77%	(left_x: -57313964032   top_y: -85771436032   width: 114627928064   height: 171542872064)
+Ear: 99%	(left_x:  316   top_y:   79   width:   37   height:   60)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0073.png: Predicted in 13.908000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0074.png: Predicted in 14.057000 milli-seconds.
+Ear: 93%	(left_x: -12010379018240   top_y: -19162185334784   width: 24020758036480   height: 38324370669568)
+Ear: 99%	(left_x:   56   top_y:  167   width:   73   height:  104)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0075.png: Predicted in 13.858000 milli-seconds.
+Ear: 64%	(left_x: -320804480   top_y: -386124832   width: 641609600   height: 772249920)
+Ear: 77%	(left_x:  282   top_y:  110   width:   31   height:   36)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0076.png: Predicted in 13.759000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0077.png: Predicted in 13.740000 milli-seconds.
+Ear: 84%	(left_x: -2256520192   top_y: -3627891712   width: 4513040896   height: 7255783424)
+Ear: 98%	(left_x:  112   top_y:   93   width:   35   height:   54)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0078.png: Predicted in 13.816000 milli-seconds.
+Ear: 96%	(left_x: -693255995392   top_y: -944591994880   width: 1386511990784   height: 1889183989760)
+Ear: 96%	(left_x:   79   top_y:  118   width:   48   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0079.png: Predicted in 13.670000 milli-seconds.
+Ear: 95%	(left_x: -91748827136   top_y: -167563100160   width: 183497654272   height: 335126200320)
+Ear: 96%	(left_x:  397   top_y:  149   width:   42   height:   84)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0080.png: Predicted in 13.832000 milli-seconds.
+Ear: 75%	(left_x:    3   top_y:   87   width:   63   height:  105)
+Ear: 71%	(left_x:   13   top_y:  109   width:   44   height:   60)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0081.png: Predicted in 13.990000 milli-seconds.
+Ear: 92%	(left_x: -81803976704   top_y: -183163961344   width: 163607953408   height: 366327922688)
+Ear: 97%	(left_x:  183   top_y:  132   width:   57   height:   88)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0082.png: Predicted in 13.874000 milli-seconds.
+Ear: 62%	(left_x:  125   top_y:   56   width:   28   height:   30)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0083.png: Predicted in 13.915000 milli-seconds.
+Ear: 79%	(left_x:  278   top_y:   71   width:   14   height:   44)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0084.png: Predicted in 13.860000 milli-seconds.
+Ear: 91%	(left_x:  132   top_y:  111   width:   27   height:   80)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0085.png: Predicted in 13.926000 milli-seconds.
+Ear: 90%	(left_x: -1447859978240   top_y: -1805363576832   width: 2895719956480   height: 3610727153664)
+Ear: 98%	(left_x:  352   top_y:   99   width:   58   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0086.png: Predicted in 13.794000 milli-seconds.
+Ear: 98%	(left_x: -201599352832   top_y: -462777483264   width: 403198705664   height: 925554966528)
+Ear: 97%	(left_x:  260   top_y:  103   width:   35   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0087.png: Predicted in 13.873000 milli-seconds.
+Ear: 72%	(left_x:   94   top_y:  104   width:   29   height:   71)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0088.png: Predicted in 13.852000 milli-seconds.
+Ear: 89%	(left_x: -5747671552   top_y: -11078640640   width: 11495343104   height: 22157281280)
+Ear: 98%	(left_x:   64   top_y:   65   width:   36   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0089.png: Predicted in 13.592000 milli-seconds.
+Ear: 62%	(left_x: -260836192   top_y: -753037056   width: 521672640   height: 1506074368)
+Ear: 92%	(left_x:  116   top_y:   59   width:   29   height:   84)
+Ear: 69%	(left_x:  332   top_y:   87   width:   73   height:  119)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0090.png: Predicted in 13.799000 milli-seconds.
+Ear: 88%	(left_x: -9966533632   top_y: -16656310272   width: 19933067264   height: 33312620544)
+Ear: 97%	(left_x:  372   top_y:  133   width:   35   height:   57)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0091.png: Predicted in 13.962000 milli-seconds.
+Ear: 68%	(left_x:  251   top_y:   92   width:   23   height:   60)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0092.png: Predicted in 13.840000 milli-seconds.
+Ear: 93%	(left_x: -93537542144   top_y: -209624743936   width: 187075084288   height: 419249487872)
+Ear: 95%	(left_x:  349   top_y:  170   width:   46   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0093.png: Predicted in 13.898000 milli-seconds.
+Ear: 89%	(left_x: -15377460224   top_y: -25916704768   width: 30754920448   height: 51833409536)
+Ear: 99%	(left_x:  156   top_y:   91   width:   31   height:   41)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0094.png: Predicted in 13.603000 milli-seconds.
+Ear: 93%	(left_x: -36155600896   top_y: -100411719680   width: 72311201792   height: 200823439360)
+Ear: 93%	(left_x:  308   top_y:   88   width:   35   height:   69)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0095.png: Predicted in 13.802000 milli-seconds.
+Ear: 97%	(left_x: -3455711444992   top_y: -6542938079232   width: 6911422889984   height: 13085876158464)
+Ear: 98%	(left_x:  101   top_y:  130   width:   45   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0096.png: Predicted in 14.030000 milli-seconds.
+Ear: 97%	(left_x: -3031479353344   top_y: -5862871007232   width: 6062958706688   height: 11725742014464)
+Ear: 97%	(left_x:  167   top_y:   49   width:   42   height:   83)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0097.png: Predicted in 13.762000 milli-seconds.
+Ear: 96%	(left_x:  371   top_y:   95   width:   28   height:   45)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0098.png: Predicted in 14.025000 milli-seconds.
+Ear: 81%	(left_x: -506936768   top_y: -958534464   width: 1013873856   height: 1917069056)
+Ear: 97%	(left_x:  152   top_y:  104   width:   27   height:   46)
+Ear: 67%	(left_x:  270   top_y:  106   width:   16   height:   46)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0099.png: Predicted in 13.799000 milli-seconds.
+Ear: 87%	(left_x: -4139032320   top_y: -7694425600   width: 8278064640   height: 15388851200)
+Ear: 94%	(left_x:  129   top_y:  113   width:   35   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0100.png: Predicted in 13.705000 milli-seconds.
+Ear: 91%	(left_x: -366594097152   top_y: -425921773568   width: 733188194304   height: 851843547136)
+Ear: 92%	(left_x:  367   top_y:  117   width:   52   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0101.png: Predicted in 13.964000 milli-seconds.
+Ear: 97%	(left_x: -512580845568   top_y: -611429318656   width: 1025161691136   height: 1222858637312)
+Ear: 97%	(left_x:  299   top_y:  114   width:   52   height:   58)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0102.png: Predicted in 13.709000 milli-seconds.
+Ear: 72%	(left_x: -13824472064   top_y: -26289711104   width: 27648944128   height: 52579422208)
+Ear: 86%	(left_x:   58   top_y:  155   width:   36   height:   74)
+Ear: 89%	(left_x:  196   top_y:   82   width:   26   height:  104)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0103.png: Predicted in 13.988000 milli-seconds.
+Ear: 64%	(left_x: -369132000   top_y: -765508672   width: 738264128   height: 1531017600)
+Ear: 84%	(left_x:   62   top_y:   78   width:   22   height:   45)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0104.png: Predicted in 13.815000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0105.png: Predicted in 13.960000 milli-seconds.
+Ear: 97%	(left_x:  242   top_y:  101   width:   24   height:   53)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0106.png: Predicted in 13.875000 milli-seconds.
+Ear: 60%	(left_x:  307   top_y:  105   width:   30   height:   57)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0107.png: Predicted in 13.873000 milli-seconds.
+Ear: 67%	(left_x: -197855120   top_y: -442854848   width: 395710784   height: 885709888)
+Ear: 85%	(left_x:  268   top_y:   68   width:   21   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0108.png: Predicted in 14.197000 milli-seconds.
+Ear: 84%	(left_x: -6973305856   top_y: -12876400640   width: 13946611712   height: 25752801280)
+Ear: 98%	(left_x:  141   top_y:   86   width:   29   height:   50)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0109.png: Predicted in 13.706000 milli-seconds.
+Ear: 83%	(left_x: -59554930688   top_y: -50428104704   width: 119109861376   height: 100856209408)
+Ear: 83%	(left_x:   80   top_y:  124   width:   54   height:   53)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0110.png: Predicted in 13.679000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0111.png: Predicted in 13.881000 milli-seconds.
+Ear: 97%	(left_x: -17884457730048   top_y: -24320491388928   width: 35768915460096   height: 48640982777856)
+Ear: 66%	(left_x: -185030288   top_y: -449615968   width: 370061376   height: 899232320)
+Ear: 98%	(left_x:   62   top_y:  130   width:   58   height:   85)
+Ear: 94%	(left_x:  377   top_y:  129   width:   25   height:   65)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0112.png: Predicted in 13.941000 milli-seconds.
+Ear: 93%	(left_x: -106961657856   top_y: -217847234560   width: 213923315712   height: 435694469120)
+Ear: 91%	(left_x:  338   top_y:  101   width:   45   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0113.png: Predicted in 13.942000 milli-seconds.
+Ear: 88%	(left_x:  258   top_y:   78   width:   19   height:   48)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0114.png: Predicted in 13.892000 milli-seconds.
+Ear: 76%	(left_x:  160   top_y:   72   width:   20   height:   31)
+Ear: 90%	(left_x:  358   top_y:   85   width:   14   height:   33)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0115.png: Predicted in 13.820000 milli-seconds.
+Ear: 88%	(left_x:  166   top_y:   71   width:   22   height:   51)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0116.png: Predicted in 13.903000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0117.png: Predicted in 13.816000 milli-seconds.
+Ear: 96%	(left_x:  159   top_y:  120   width:   32   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0118.png: Predicted in 13.822000 milli-seconds.
+Ear: 82%	(left_x: -3706349312   top_y: -7216011264   width: 7412699648   height: 14432022528)
+Ear: 82%	(left_x:  361   top_y:  121   width:   29   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0119.png: Predicted in 13.855000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0120.png: Predicted in 13.822000 milli-seconds.
+Ear: 60%	(left_x:  144   top_y:  129   width:   34   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0121.png: Predicted in 14.007000 milli-seconds.
+Ear: 86%	(left_x: -1085584965632   top_y: -1916919480320   width: 2171169931264   height: 3833838960640)
+Ear: 92%	(left_x:   45   top_y:  116   width:   60   height:   81)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0122.png: Predicted in 13.810000 milli-seconds.
+Ear: 95%	(left_x: -27597850624   top_y: -74544963584   width: 55195701248   height: 149089927168)
+Ear: 94%	(left_x:  338   top_y:  138   width:   35   height:   66)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0123.png: Predicted in 13.919000 milli-seconds.
+Ear: 92%	(left_x:  370   top_y:   89   width:   24   height:   41)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0124.png: Predicted in 13.919000 milli-seconds.
+Ear: 85%	(left_x: -629724413952   top_y: -1579735056384   width: 1259448827904   height: 3159470112768)
+Ear: 96%	(left_x:   46   top_y:   83   width:   53   height:  105)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0125.png: Predicted in 13.878000 milli-seconds.
+Ear: 71%	(left_x:  424   top_y:  117   width:   45   height:   68)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0126.png: Predicted in 13.789000 milli-seconds.
+Ear: 86%	(left_x: -2267885824   top_y: -4614733824   width: 4535771648   height: 9229467648)
+Ear: 97%	(left_x:   51   top_y:  122   width:   30   height:   60)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0127.png: Predicted in 13.714000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0128.png: Predicted in 13.803000 milli-seconds.
+Ear: 70%	(left_x: -1156876032   top_y: -1950590208   width: 2313752832   height: 3901180672)
+Ear: 72%	(left_x:  328   top_y:  155   width:   31   height:   66)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0129.png: Predicted in 13.754000 milli-seconds.
+Ear: 77%	(left_x:  307   top_y:  120   width:   34   height:   58)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0130.png: Predicted in 13.614000 milli-seconds.
+Ear: 75%	(left_x:   57   top_y:  149   width:   67   height:  109)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0131.png: Predicted in 13.892000 milli-seconds.
+Ear: 97%	(left_x: -621798162432   top_y: -887177478144   width: 1243596324864   height: 1774354956288)
+Ear: 97%	(left_x:   58   top_y:  152   width:   51   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0132.png: Predicted in 13.804000 milli-seconds.
+Ear: 98%	(left_x: -426012442624   top_y: -924981788672   width: 852024885248   height: 1849963577344)
+Ear: 72%	(left_x: -8563662848   top_y: -11705104384   width: 17127325696   height: 23410208768)
+Ear: 97%	(left_x:   52   top_y:  118   width:   39   height:   76)
+Ear: 78%	(left_x:  430   top_y:  125   width:   30   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0133.png: Predicted in 14.026000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0134.png: Predicted in 13.840000 milli-seconds.
+Ear: 84%	(left_x: -1374660736   top_y: -3513283072   width: 2749321984   height: 7026566144)
+Ear: 91%	(left_x:  268   top_y:   73   width:   26   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0135.png: Predicted in 13.942000 milli-seconds.
+Ear: 96%	(left_x: -1635825221632   top_y: -1821915873280   width: 3271650443264   height: 3643831746560)
+Ear: 96%	(left_x:  388   top_y:  117   width:   67   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0136.png: Predicted in 13.931000 milli-seconds.
+Ear: 92%	(left_x: -33793026048   top_y: -66146803712   width: 67586052096   height: 132293607424)
+Ear: 93%	(left_x:  398   top_y:  105   width:   44   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0137.png: Predicted in 13.808000 milli-seconds.
+Ear: 98%	(left_x: -8346874675200   top_y: -11997017014272   width: 16693749350400   height: 23994034028544)
+Ear: 98%	(left_x:  122   top_y:  166   width:   57   height:   78)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0138.png: Predicted in 13.749000 milli-seconds.
+Ear: 87%	(left_x: -27031404544   top_y: -22235232256   width: 54062809088   height: 44470464512)
+Ear: 95%	(left_x:  306   top_y:  110   width:   67   height:   51)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0139.png: Predicted in 13.740000 milli-seconds.
+Ear: 73%	(left_x: -1565716224   top_y: -3226258176   width: 3131433216   height: 6452516352)
+Ear: 95%	(left_x:  382   top_y:  109   width:   25   height:   49)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0140.png: Predicted in 13.589000 milli-seconds.
+Ear: 97%	(left_x: -1770666065920   top_y: -1559955243008   width: 3541332131840   height: 3119910486016)
+Ear: 97%	(left_x:   95   top_y:  121   width:   57   height:   45)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0141.png: Predicted in 13.748000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0142.png: Predicted in 13.949000 milli-seconds.
+Ear: 92%	(left_x: -966943506432   top_y: -1939041943552   width: 1933887012864   height: 3878083887104)
+Ear: 94%	(left_x:   53   top_y:  115   width:   46   height:   82)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0143.png: Predicted in 13.739000 milli-seconds.
+Ear: 85%	(left_x: -2078185472   top_y: -5065896448   width: 4156371456   height: 10131792896)
+Ear: 93%	(left_x:  278   top_y:  105   width:   26   height:   74)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0144.png: Predicted in 14.066000 milli-seconds.
+Ear: 92%	(left_x: -41976041472   top_y: -78312374272   width: 83952082944   height: 156624748544)
+Ear: 99%	(left_x:  316   top_y:  103   width:   34   height:   62)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0145.png: Predicted in 13.565000 milli-seconds.
+Ear: 87%	(left_x: -6204695040   top_y: -15604088832   width: 12409390080   height: 31208177664)
+Ear: 95%	(left_x:  168   top_y:   79   width:   30   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0146.png: Predicted in 13.954000 milli-seconds.
+Ear: 93%	(left_x: -67556958208   top_y: -199787790336   width: 135113916416   height: 399575580672)
+Ear: 93%	(left_x:  125   top_y:  135   width:   27   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0147.png: Predicted in 13.784000 milli-seconds.
+Ear: 92%	(left_x:  180   top_y:   87   width:   28   height:   59)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0148.png: Predicted in 13.755000 milli-seconds.
+Ear: 96%	(left_x: -3037591502848   top_y: -3718572933120   width: 6075183005696   height: 7437145866240)
+Ear: 97%	(left_x:  345   top_y:  182   width:   62   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0149.png: Predicted in 13.730000 milli-seconds.
+Ear: 79%	(left_x: -6970114048   top_y: -8755138560   width: 13940229120   height: 17510277120)
+Ear: 96%	(left_x:  280   top_y:  150   width:   55   height:   83)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0150.png: Predicted in 13.854000 milli-seconds.
+Ear: 88%	(left_x: -33606623232   top_y: -51258290176   width: 67213246464   height: 102516580352)
+Ear: 97%	(left_x:  311   top_y:  112   width:   54   height:   85)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0151.png: Predicted in 13.619000 milli-seconds.
+Ear: 65%	(left_x:  391   top_y:  104   width:   37   height:   70)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0152.png: Predicted in 13.778000 milli-seconds.
+Ear: 93%	(left_x: -16705390592   top_y: -25762639872   width: 33410781184   height: 51525279744)
+Ear: 87%	(left_x:   90   top_y:   83   width:   32   height:   51)
+Ear: 61%	(left_x:  293   top_y:   66   width:   14   height:   56)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0153.png: Predicted in 13.832000 milli-seconds.
+Ear: 80%	(left_x: -4994606592   top_y: -17200220160   width: 9989214208   height: 34400440320)
+Ear: 89%	(left_x:  322   top_y:   26   width:   36   height:   62)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0154.png: Predicted in 13.919000 milli-seconds.
+Ear: 95%	(left_x: -75838775296   top_y: -74948861952   width: 151677550592   height: 149897723904)
+Ear: 91%	(left_x:   84   top_y:   53   width:   39   height:   75)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0155.png: Predicted in 13.814000 milli-seconds.
+Ear: 76%	(left_x: -2766566400   top_y: -7043154432   width: 5533133312   height: 14086308864)
+Ear: 88%	(left_x:  205   top_y:  128   width:   27   height:   65)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0156.png: Predicted in 13.902000 milli-seconds.
+Ear: 62%	(left_x: -208454640   top_y: -513477632   width: 416910048   height: 1026955520)
+Ear: 96%	(left_x:  372   top_y:  104   width:   26   height:   64)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0157.png: Predicted in 13.685000 milli-seconds.
+Ear: 80%	(left_x: -1215679168512   top_y: -1312344244224   width: 2431358337024   height: 2624688488448)
+Ear: 63%	(left_x: -9532924928   top_y: -9411739648   width: 19065849856   height: 18823479296)
+Ear: 99%	(left_x:   52   top_y:  129   width:   60   height:   85)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0158.png: Predicted in 13.657000 milli-seconds.
+Ear: 88%	(left_x: -23116642304   top_y: -44029669376   width: 46233284608   height: 88059338752)
+Ear: 88%	(left_x:  138   top_y:  152   width:   32   height:   65)
+Ear: 91%	(left_x:  292   top_y:  126   width:   20   height:   71)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0159.png: Predicted in 13.795000 milli-seconds.
+Ear: 87%	(left_x:  317   top_y:  142   width:   64   height:   83)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0160.png: Predicted in 13.793000 milli-seconds.
+Ear: 88%	(left_x: -2161089839104   top_y: -5520288645120   width: 4322179678208   height: 11040577290240)
+Ear: 95%	(left_x:   66   top_y:  132   width:   53   height:   81)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0161.png: Predicted in 13.634000 milli-seconds.
+Ear: 96%	(left_x: -1166774894592   top_y: -1454850965504   width: 2333549789184   height: 2909701931008)
+Ear: 99%	(left_x:   85   top_y:  114   width:   48   height:   55)
+Ear: 70%	(left_x:  348   top_y:  111   width:   17   height:   29)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0162.png: Predicted in 13.714000 milli-seconds.
+Ear: 85%	(left_x: -43112517632   top_y: -86855843840   width: 86225035264   height: 173711687680)
+Ear: 98%	(left_x:  110   top_y:  132   width:   33   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0163.png: Predicted in 13.885000 milli-seconds.
+Ear: 72%	(left_x: -76943343616   top_y: -96728506368   width: 153886687232   height: 193457012736)
+Ear: 85%	(left_x:   76   top_y:  131   width:   58   height:  113)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0164.png: Predicted in 13.907000 milli-seconds.
+Ear: 92%	(left_x: -419498098688   top_y: -677219205120   width: 838996197376   height: 1354438410240)
+Ear: 61%	(left_x:  161   top_y:  108   width:   19   height:   54)
+Ear: 94%	(left_x:  297   top_y:  151   width:   59   height:   75)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0165.png: Predicted in 13.984000 milli-seconds.
+Ear: 70%	(left_x: -11880854528   top_y: -15870236672   width: 23761709056   height: 31740473344)
+Ear: 99%	(left_x:  368   top_y:   93   width:   72   height:  127)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0166.png: Predicted in 13.781000 milli-seconds.
+Ear: 84%	(left_x:  123   top_y:  101   width:   17   height:   47)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0167.png: Predicted in 13.932000 milli-seconds.
+Ear: 80%	(left_x:   33   top_y:   71   width:   49   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0168.png: Predicted in 13.862000 milli-seconds.
+Ear: 74%	(left_x: -455422464   top_y: -776933632   width: 910845504   height: 1553867520)
+Ear: 97%	(left_x:  257   top_y:   97   width:   32   height:   57)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0169.png: Predicted in 13.735000 milli-seconds.
+Ear: 96%	(left_x: -124528631808   top_y: -265416425472   width: 249057263616   height: 530832850944)
+Ear: 97%	(left_x:  111   top_y:  154   width:   40   height:   68)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0170.png: Predicted in 13.814000 milli-seconds.
+Ear: 98%	(left_x: -45961871097856   top_y: -44176020340736   width: 91923742195712   height: 88352040681472)
+Ear: 99%	(left_x:   50   top_y:  147   width:   76   height:   85)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0171.png: Predicted in 13.888000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0172.png: Predicted in 13.660000 milli-seconds.
+Ear: 74%	(left_x:  406   top_y:   99   width:   60   height:  118)
+Ear: 61%	(left_x:  416   top_y:  126   width:   37   height:   57)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0173.png: Predicted in 13.800000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0174.png: Predicted in 13.903000 milli-seconds.
+Ear: 90%	(left_x: -274590908416   top_y: -315420737536   width: 549181816832   height: 630841475072)
+Ear: 94%	(left_x:  103   top_y:  122   width:   42   height:   58)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0175.png: Predicted in 13.929000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0176.png: Predicted in 14.045000 milli-seconds.
+Ear: 61%	(left_x: -3038119424   top_y: -3978976256   width: 6076239360   height: 7957952512)
+Ear: 78%	(left_x:  155   top_y:   84   width:   38   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0177.png: Predicted in 13.795000 milli-seconds.
+Ear: 80%	(left_x: -7072791552   top_y: -5953871360   width: 14145584128   height: 11907742720)
+Ear: 73%	(left_x:  273   top_y:   54   width:   45   height:   72)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0178.png: Predicted in 13.804000 milli-seconds.
+Ear: 97%	(left_x: -547589095424   top_y: -563022659584   width: 1095178190848   height: 1126045319168)
+Ear: 97%	(left_x:  343   top_y:  143   width:   57   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0179.png: Predicted in 13.602000 milli-seconds.
+Ear: 98%	(left_x: -3271845478400   top_y: -3402592419840   width: 6543690956800   height: 6805184839680)
+Ear: 99%	(left_x:  287   top_y:  135   width:   56   height:   49)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0180.png: Predicted in 13.764000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0181.png: Predicted in 13.761000 milli-seconds.
+Ear: 93%	(left_x: -22808791040   top_y: -33043625984   width: 45617582080   height: 66087251968)
+Ear: 94%	(left_x:  310   top_y:  103   width:   32   height:   45)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0182.png: Predicted in 13.780000 milli-seconds.
+Ear: 92%	(left_x: -4149426688   top_y: -7267420672   width: 8298853376   height: 14534841344)
+Ear: 85%	(left_x:  102   top_y:  179   width:   31   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0183.png: Predicted in 13.751000 milli-seconds.
+Ear: 92%	(left_x: -2018176139264   top_y: -2594249900032   width: 4036352278528   height: 5188499800064)
+Ear: 98%	(left_x:   66   top_y:  107   width:   55   height:   71)
+Ear: 73%	(left_x:  338   top_y:  107   width:   18   height:   63)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0184.png: Predicted in 14.066000 milli-seconds.
+Ear: 90%	(left_x: -61956747264   top_y: -95941541888   width: 123913494528   height: 191883083776)
+Ear: 98%	(left_x:  313   top_y:  104   width:   39   height:   59)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0185.png: Predicted in 13.854000 milli-seconds.
+Ear: 89%	(left_x: -4227394560   top_y: -4923633664   width: 8454789120   height: 9847267328)
+Ear: 97%	(left_x:  116   top_y:   90   width:   31   height:   37)
+Ear: 66%	(left_x:  293   top_y:   90   width:   18   height:   45)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0186.png: Predicted in 13.987000 milli-seconds.
+Ear: 71%	(left_x: -42266710016   top_y: -73922961408   width: 84533420032   height: 147845922816)
+Ear: 63%	(left_x:   31   top_y:  167   width:   56   height:   76)
+Ear: 97%	(left_x:  357   top_y:  140   width:   79   height:  134)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0187.png: Predicted in 13.873000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0188.png: Predicted in 13.837000 milli-seconds.
+Ear: 95%	(left_x: -240902553600   top_y: -407305945088   width: 481805107200   height: 814611890176)
+Ear: 94%	(left_x:  337   top_y:   86   width:   44   height:   75)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0189.png: Predicted in 13.894000 milli-seconds.
+Ear: 98%	(left_x: -36665531826176   top_y: -55382303047680   width: 73331063652352   height: 110764606095360)
+Ear: 99%	(left_x:  377   top_y:  131   width:   64   height:   84)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0190.png: Predicted in 14.071000 milli-seconds.
+Ear: 84%	(left_x:  132   top_y:  114   width:   21   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0191.png: Predicted in 13.738000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0192.png: Predicted in 13.621000 milli-seconds.
+Ear: 65%	(left_x: -901758272   top_y: -918910080   width: 1803517056   height: 1837820288)
+Ear: 74%	(left_x:  209   top_y:   73   width:   36   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0193.png: Predicted in 13.595000 milli-seconds.
+Ear: 74%	(left_x:  288   top_y:  140   width:   22   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0194.png: Predicted in 13.781000 milli-seconds.
+Ear: 94%	(left_x: -559010545664   top_y: -389776474112   width: 1118021091328   height: 779552948224)
+Ear: 94%	(left_x:  139   top_y:  101   width:   56   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0195.png: Predicted in 13.882000 milli-seconds.
+Ear: 80%	(left_x: -4762816000   top_y: -4401923584   width: 9525632000   height: 8803847168)
+Ear: 76%	(left_x:  161   top_y:   81   width:   38   height:   44)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0196.png: Predicted in 13.923000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0197.png: Predicted in 13.930000 milli-seconds.
+Ear: 79%	(left_x:  255   top_y:   79   width:   24   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0198.png: Predicted in 13.772000 milli-seconds.
+Ear: 61%	(left_x: -2713588992   top_y: -2453265664   width: 5427179008   height: 4906531840)
+Ear: 63%	(left_x:  361   top_y:  121   width:   57   height:   70)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0199.png: Predicted in 13.985000 milli-seconds.
+Ear: 91%	(left_x: -9277701120   top_y: -18705668096   width: 18555402240   height: 37411336192)
+Ear: 89%	(left_x:  163   top_y:  105   width:   35   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0200.png: Predicted in 13.847000 milli-seconds.
+Ear: 76%	(left_x: -23209687040   top_y: -41455874048   width: 46419374080   height: 82911748096)
+Ear: 93%	(left_x:  328   top_y:  148   width:   41   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0201.png: Predicted in 14.049000 milli-seconds.
+Ear: 83%	(left_x: -7474218496   top_y: -14358199296   width: 14948438016   height: 28716398592)
+Ear: 91%	(left_x:  285   top_y:  126   width:   28   height:   56)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0202.png: Predicted in 14.000000 milli-seconds.
+Ear: 66%	(left_x: -2606767616   top_y: -4460425728   width: 5213535744   height: 8920851456)
+Ear: 73%	(left_x:  299   top_y:  138   width:   52   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0203.png: Predicted in 13.902000 milli-seconds.
+Ear: 96%	(left_x: -3447725490176   top_y: -4266627170304   width: 6895450980352   height: 8533254340608)
+Ear: 98%	(left_x:   20   top_y:  167   width:   65   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0204.png: Predicted in 13.938000 milli-seconds.
+Ear: 69%	(left_x:  140   top_y:  150   width:   28   height:   55)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0205.png: Predicted in 13.820000 milli-seconds.
+Ear: 85%	(left_x: -2446716672   top_y: -3651209216   width: 4893433856   height: 7302418432)
+Ear: 95%	(left_x:  113   top_y:   83   width:   35   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0206.png: Predicted in 13.833000 milli-seconds.
+Ear: 94%	(left_x: -137015468032   top_y: -349981016064   width: 274030936064   height: 699962032128)
+Ear: 95%	(left_x:  378   top_y:  135   width:   31   height:   74)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0207.png: Predicted in 13.906000 milli-seconds.
+Ear: 95%	(left_x: -13647003648   top_y: -25013288960   width: 27294007296   height: 50026577920)
+Ear: 89%	(left_x:  283   top_y:   91   width:   29   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0208.png: Predicted in 13.922000 milli-seconds.
+Ear: 90%	(left_x: -230474039296   top_y: -174221443072   width: 460948078592   height: 348442886144)
+Ear: 90%	(left_x:  238   top_y:  150   width:   54   height:   77)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0209.png: Predicted in 13.710000 milli-seconds.
+Ear: 96%	(left_x:  253   top_y:  137   width:   40   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0210.png: Predicted in 13.742000 milli-seconds.
+Ear: 93%	(left_x: -1605630296064   top_y: -1657747144704   width: 3211260592128   height: 3315494289408)
+Ear: 95%	(left_x:   55   top_y:  133   width:   66   height:   79)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0211.png: Predicted in 13.669000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0212.png: Predicted in 13.881000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0213.png: Predicted in 14.025000 milli-seconds.
+Ear: 97%	(left_x: -947861454848   top_y: -1282584739840   width: 1895722909696   height: 2565169479680)
+Ear: 97%	(left_x:  377   top_y:  101   width:   57   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0214.png: Predicted in 13.912000 milli-seconds.
+Ear: 77%	(left_x: -1144681216   top_y: -2980717824   width: 2289363200   height: 5961436160)
+Ear: 82%	(left_x:  305   top_y:  108   width:   36   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0215.png: Predicted in 14.017000 milli-seconds.
+Ear: 67%	(left_x:   89   top_y:  104   width:   52   height:   47)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0216.png: Predicted in 14.128000 milli-seconds.
+Ear: 74%	(left_x: -4507382272   top_y: -8653550592   width: 9014765568   height: 17307101184)
+Ear: 80%	(left_x:  444   top_y:  154   width:   28   height:   68)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0217.png: Predicted in 14.045000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0218.png: Predicted in 13.992000 milli-seconds.
+Ear: 93%	(left_x: -46898630656   top_y: -106822287360   width: 93797261312   height: 213644574720)
+Ear: 95%	(left_x:  381   top_y:  105   width:   43   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0219.png: Predicted in 13.862000 milli-seconds.
+Ear: 89%	(left_x:  375   top_y:  164   width:   25   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0220.png: Predicted in 13.921000 milli-seconds.
+Ear: 76%	(left_x:   21   top_y:   74   width:   66   height:  108)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0221.png: Predicted in 13.757000 milli-seconds.
+Ear: 64%	(left_x: -5016585216   top_y: -6628304384   width: 10033170432   height: 13256608768)
+Ear: 84%	(left_x:   39   top_y:  175   width:   58   height:   70)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0222.png: Predicted in 13.689000 milli-seconds.
+Ear: 94%	(left_x: -106133118976   top_y: -147667615744   width: 212266237952   height: 295335231488)
+Ear: 99%	(left_x:  361   top_y:  182   width:   38   height:   52)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0223.png: Predicted in 14.072000 milli-seconds.
+Ear: 97%	(left_x: -9039249408000   top_y: -16900445700096   width: 18078498816000   height: 33800891400192)
+Ear: 89%	(left_x: -630835183616   top_y: -1396826046464   width: 1261670367232   height: 2793652092928)
+Ear: 98%	(left_x:   62   top_y:  132   width:   56   height:   82)
+Ear: 93%	(left_x:  375   top_y:  149   width:   44   height:   80)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0224.png: Predicted in 13.895000 milli-seconds.
+Ear: 90%	(left_x: -1690122846208   top_y: -3197995057152   width: 3380245692416   height: 6395990114304)
+Ear: 97%	(left_x:   50   top_y:  107   width:   54   height:  100)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0225.png: Predicted in 14.034000 milli-seconds.
+Ear: 63%	(left_x:  303   top_y:   75   width:   40   height:   61)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0226.png: Predicted in 14.060000 milli-seconds.
+Ear: 79%	(left_x:  168   top_y:   72   width:   17   height:   39)
+Ear: 94%	(left_x:  300   top_y:   71   width:   15   height:   46)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0227.png: Predicted in 13.758000 milli-seconds.
+Ear: 86%	(left_x:  278   top_y:  122   width:   22   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0228.png: Predicted in 13.838000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0229.png: Predicted in 13.824000 milli-seconds.
+Ear: 89%	(left_x:  377   top_y:   65   width:   25   height:   39)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0230.png: Predicted in 13.951000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0231.png: Predicted in 13.751000 milli-seconds.
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0232.png: Predicted in 13.502000 milli-seconds.
+Ear: 74%	(left_x: -449535104   top_y: -749060416   width: 899070336   height: 1498121088)
+Ear: 98%	(left_x:   67   top_y:  105   width:   29   height:   42)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0233.png: Predicted in 14.005000 milli-seconds.
+Ear: 85%	(left_x: -421865947136   top_y: -857054183424   width: 843731894272   height: 1714108366848)
+Ear: 94%	(left_x:   11   top_y:   68   width:   58   height:  113)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0234.png: Predicted in 13.843000 milli-seconds.
+Ear: 80%	(left_x:  344   top_y:  130   width:   20   height:   62)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0235.png: Predicted in 14.102000 milli-seconds.
+Ear: 69%	(left_x:  325   top_y:   71   width:   28   height:   41)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0236.png: Predicted in 13.779000 milli-seconds.
+Ear: 96%	(left_x:  232   top_y:  127   width:   22   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0237.png: Predicted in 14.026000 milli-seconds.
+Ear: 79%	(left_x: -992517120   top_y: -1529526656   width: 1985034624   height: 3059053568)
+Ear: 97%	(left_x:  158   top_y:   77   width:   25   height:   35)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0238.png: Predicted in 13.937000 milli-seconds.
+Ear: 85%	(left_x: -15415638016   top_y: -26619856896   width: 30831276032   height: 53239713792)
+Ear: 97%	(left_x:  156   top_y:  101   width:   32   height:   53)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0239.png: Predicted in 13.840000 milli-seconds.
+Ear: 61%	(left_x: -2294356224   top_y: -3458088960   width: 4588712448   height: 6916177920)
+Ear: 96%	(left_x:   27   top_y:  124   width:   35   height:   42)
+Ear: 66%	(left_x:  269   top_y:  108   width:   31   height:   40)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0240.png: Predicted in 13.807000 milli-seconds.
+Ear: 96%	(left_x: -1161862578176   top_y: -2409405349888   width: 2323725156352   height: 4818810699776)
+Ear: 98%	(left_x:   89   top_y:  104   width:   40   height:   76)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0241.png: Predicted in 13.812000 milli-seconds.
+Ear: 97%	(left_x: -716432408576   top_y: -1690936803328   width: 1432864817152   height: 3381873606656)
+Ear: 97%	(left_x:  402   top_y:  135   width:   42   height:   73)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0242.png: Predicted in 13.585000 milli-seconds.
+Ear: 74%	(left_x: -760967424   top_y: -2501203456   width: 1521935232   height: 5002407424)
+Ear: 90%	(left_x:  249   top_y:   88   width:   20   height:   66)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0243.png: Predicted in 14.030000 milli-seconds.
+Ear: 91%	(left_x:  258   top_y:   88   width:   18   height:   32)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0244.png: Predicted in 14.110000 milli-seconds.
+Ear: 93%	(left_x:  133   top_y:   94   width:   26   height:   81)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0245.png: Predicted in 13.822000 milli-seconds.
+Ear: 85%	(left_x:  371   top_y:  105   width:   55   height:   37)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0246.png: Predicted in 13.951000 milli-seconds.
+Ear: 79%	(left_x: -738106688   top_y: -1712008576   width: 1476213632   height: 3424017664)
+Ear: 83%	(left_x:  100   top_y:  159   width:   28   height:   64)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0247.png: Predicted in 14.011000 milli-seconds.
+Ear: 84%	(left_x: -1146263168   top_y: -2696719360   width: 2292526592   height: 5393439232)
+Ear: 95%	(left_x:  151   top_y:   97   width:   24   height:   57)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0248.png: Predicted in 13.986000 milli-seconds.
+Ear: 89%	(left_x:  359   top_y:  102   width:   15   height:   67)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0249.png: Predicted in 13.902000 milli-seconds.
+Ear: 89%	(left_x: -63498272768   top_y: -124713664512   width: 126996545536   height: 249427329024)
+Ear: 97%	(left_x:  373   top_y:  140   width:   60   height:   89)
+Enter Image Path:  Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+/content/drive/MyDrive/test_hist/0250.png: Predicted in 13.541000 milli-seconds.
+Ear: 96%	(left_x:  250   top_y:  112   width:   16   height:   47)
+Enter Image Path: 

@@ -1,0 +1,4 @@
+classes = 1
+train = /content/drive/MyDrive/train.txt
+names = /content/drive/MyDrive/Obj.names
+backup = /content/drive/MyDrive/outputs2
